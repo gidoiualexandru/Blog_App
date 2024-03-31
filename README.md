@@ -1,3 +1,5 @@
+Instructions how to run the project:
+
 ## Setup
 
 Make sure to install the dependencies:
