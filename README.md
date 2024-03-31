@@ -1,4 +1,4 @@
-Instructions how to run the project:
+Instructions how to run the project :
 
 ## Setup
 
